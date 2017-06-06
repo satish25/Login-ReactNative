@@ -12,9 +12,4 @@ Creating Simple Login Module using React-native
 
 Once done with the Prerequisite's we are ready create a project's via React-native. 
 
-Let's Create a new project by name DemoLgin 
-
-open the terminal and paste "react-native init DemoLogin"
-
-
 
